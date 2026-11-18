@@ -1,0 +1,7 @@
+let a = 20
+let b = 30
+if a > b {
+    print("A is Biggest")
+} else {
+    print("B is Biggest")
+}
